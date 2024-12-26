@@ -9,4 +9,8 @@ apt update -y
 apt upgarde -y
 apt install git -y
 apt install python python2 python3 -y
-git clone 
+git clone https://github.com/Ahmedabdirisakali/spy_tool.py.git
+cd spy_tool.py 
+chmod +x *
+pip install requirements.txt
+python3 spy_tool.py 
