@@ -24,3 +24,24 @@ ama
 
 python  spy_tool.py 
 
+cilad hadad aragto Termux samee sidaan.
+
+badel deegaankaaga Termux.
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install requests 
+
+pip install phonenumbers
+
+pip install colorama
+
+Run: ama kici Toolka:
+
+python3 spy_tool.py
+
+
+
+
